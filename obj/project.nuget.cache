@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZVTCjpQcO10=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EK35346\\Source\\repos\\DecompilerApp\\DecompilerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EK35346\\.nuget\\packages\\icsharpcode.decompiler\\9.0.0.7660-preview2\\icsharpcode.decompiler.9.0.0.7660-preview2.nupkg.sha512",
+    "C:\\Users\\EK35346\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\EK35346\\.nuget\\packages\\system.reflection.metadata\\6.0.0\\system.reflection.metadata.6.0.0.nupkg.sha512",
+    "C:\\Users\\EK35346\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
